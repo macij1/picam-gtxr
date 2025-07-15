@@ -1,4 +1,4 @@
-# gtxr-picamera
+# picamera-gtxr
 This single-camera system was developed by the Georgia Tech Experimental Rocketry Club (GTXR) for the launch of "Live and Let Fly", in July 2025.
 
 It enables different use-cases:
@@ -7,7 +7,7 @@ It enables different use-cases:
 2. Interactive flight video recording: run_picam_manager.sh
 3. Remote picture triggering: take_selfie.sh
 
-For more information, please contact Juan Macias(jromero74@gatech.edu).
+For more information, please contact Juan Macias (jromero74@gatech.edu).
 
 ## Software environment
 

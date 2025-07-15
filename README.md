@@ -3,7 +3,7 @@ This single-camera system was developed by the Georgia Tech Experimental Rocketr
 
 It enables different use-cases:
 
-1. Automatic flight video recording: run_automatic_managerr.sh
+1. Automatic flight video recording: run_automatic_manager.sh
 2. Interactive flight video recording: run_picam_manager.sh
 3. Remote picture triggering: take_selfie.sh
 
@@ -24,7 +24,7 @@ Then, we configured console access through a USB Serial connection. To do so, fo
 
 ## Camera configuration
 
-For Live and Let Fly, our camera was configured with the following parameters:
+For **Live And Let Fly**, our camera was configured with the following parameters:
 
 - Autofocus off
 - Manual focus to inf
@@ -44,10 +44,6 @@ For Live and Let Fly, our camera was configured with the following parameters:
 'socat -d -d pty,raw,echo=0 pty,raw,echo=0'
 This should output two paths whose inputs and outputs are connected.
 
-### [Camera software](<https://www.raspberrypi.com/documentation/computers/camera_software.html#rpicam-apps>)
-### [Raspberry Pi pinout](https://pinout.xyz/pinout/ground)
-### [Raspberry Pi Camera module 3](https://datasheets.raspberrypi.com/camera/camera-module-3-product-brief.pdf)
-# picam-gtxr
-# picam-gtxr
-# picam-gtxr
-# picam-gtxr
+## [Camera software](<https://www.raspberrypi.com/documentation/computers/camera_software.html#rpicam-apps>)
+## [Raspberry Pi pinout](https://pinout.xyz/pinout/ground)
+## [Raspberry Pi Camera module 3](https://datasheets.raspberrypi.com/camera/camera-module-3-product-brief.pdf)

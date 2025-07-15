@@ -20,7 +20,7 @@ We powered the devices with power over USB during dev, and with a LiPo battery f
 
 ## Console access
 To develop, we preconfigured a headless Pi during flashing to connect to a local LAN, to enable remote access with SSH through a WiFi or Ethernet network.
-Then, we configured console access through a USB Serial connection. To do so, follow the follwing tutorial: [here](https://github.com/macij1/gtxr-picamera/blob/main/USB-gadgetmode.md)
+Then, we configured console access through a USB Serial connection. To do so, follow [this tutorial]((https://github.com/macij1/gtxr-picamera/blob/main/USB-gadgetmode.md))
 
 ## Camera configuration
 
